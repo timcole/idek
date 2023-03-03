@@ -19,4 +19,4 @@ for streaming to Twitch.
 
 This is hard coded to stream to Ashburn VA 3, you can change that
 [here](https://github.com/timcole/idek/blob/main/entrypoint.sh#L14). List of
-Twitch's injest servers can be found [here](https://stream.twitch.tv/ingests/).
+Twitch's ingest servers can be found [here](https://stream.twitch.tv/ingests/).
